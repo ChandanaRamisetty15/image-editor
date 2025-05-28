@@ -1,0 +1,2 @@
+This project is a beginner-friendly image editor built with Python using Tkinter, PIL (Pillow), and OpenCV. It features a graphical interface that allows users to open, edit, and save images. Core functionalities include rotating, flipping, resizing, converting to grayscale, and applying blur effects. It serves as a great foundation for those looking to learn about image processing and GUI development in Python.
+
